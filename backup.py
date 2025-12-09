@@ -10,5 +10,3 @@ def backup_file(source,destination):
 source=r"D:\python_backup_services"
 destination=r"D:\python_backup_services\backups"
 backup_file(source,destination)
-
-//this is the backup python code
